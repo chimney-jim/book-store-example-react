@@ -1,5 +1,7 @@
 # react-example
 
+A scaled back version of [scotch.io's bookstore tutorial](https://scotch.io/tutorials/build-a-bookshop-with-react-redux-i-react-redux-flow)
+
 Simple starter kit to get started with [React]. [Webpack], [Babel] and [Jest] are preconfigured so you can focus on writing code.
 
 
